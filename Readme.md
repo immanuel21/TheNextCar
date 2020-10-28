@@ -1,0 +1,3 @@
+1.Door controller mempunyai fungsi untuk mengatur tombol-tombol DoorOpenButton agar dapat berfungsi dengan maksimal<br/><br/>
+2.Model Door mempunyai fungsi untuk menapilkan data DoorOpenState apakah data itu closed atau open sesuai dengan tombol yang telah kita ditekan<br/><br/>
+3.OnDoorChanged mempunyai fungsi untuk mengambil data pada LockDoorState.Content yang berisi pesan dan data LockDoorButton.Content yang berisi data tombol yang telah kita ditekan
